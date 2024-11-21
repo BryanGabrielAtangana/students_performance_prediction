@@ -1,4 +1,4 @@
-## Explication des résultats
+## Résultats
 
 ### 1. **Erreur Moyenne Quadratique (RMSE) : 7.899**
 
