@@ -49,6 +49,9 @@ Les métriques d'erreur, comme l'**Erreur Quadratique Moyenne (RMSE)** de **7.89
 Étant donné cette bonne performance, ce modèle pourrait être très utile pour prédire la performance des étudiants en fonction de leurs scores précédents. Cependant, pour améliorer encore la qualité des prédictions, il serait pertinent d'explorer l'ajout de nouvelles caractéristiques, telle que le nombre d'heures d'étude(`hours_studied`) qui pourraient enrichir le modèle et améliorer sa capacité à prédire l'indice de performance de manière plus précise.
 
 ### Sources utiles
+
+Dataset : https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression/data 
+
 MLlib (DataFrame-based) — PySpark 3.5.3 documentation. (n.d.). https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html 
 
 loading. . . | SAP Help Portal. (n.d.). https://help.sap.com/docs/SAP_PREDICTIVE_ANALYTICS/41d1a6d4e7574e32b815f1cc87c00f42/5e5198fd4afe4ae5b48fefe0d3161810.html
